@@ -1,18 +1,20 @@
-# "Repository name"
+# Kicad-Training-Arduino
 
 ## Overview
-- "This Repository Overview"
+- Kicad初心者のためのリポジトリ
+- `feature/sample` ブランチにサンプルプロジェクトと解説ドキュメントを置く
 
 ## Requirement
 ### Development
-- "Development Tool Name"
+- Kicad 7.0
 ### Boards
-- "Platform Name, Board Name, etc..."
+- Arduino Pro Mini
 ### Libraries
 - "Library Name and Version used in this repository"
 
 ## Usage
-- "How to Use, SIMPLE Explanation"
+- [回路図エディターの使い方](./documents/How-to-Use-Schematic-Editor/)
+- [PCBエディターの使い方](./documents/How-to-Use-PCB-Editor/)
 
 ## Features
 - "Detailed Description"
@@ -24,4 +26,4 @@
 - ["Your Name"]("Your GitHub, Twitter, etc... Account URL")
 
 ## License
-- Copyright (c) 2023 東京工科大学 ProjectEV [Released under the MIT license]("License URL")
+- Copyright (c) 2023 東京工科大学 ProjectEV [Released under the MIT license](./LICENSE)
